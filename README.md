@@ -5,14 +5,16 @@ Here, you may view the evolving critical editions of several parts of the *Suśr
 
 You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition using the Saktumiva 1.0 interface.  
 
-[The Saktumiva 2.0](https://wujastyk.github.io/Saktumiva2/) is derived from the same underlying manuscript transcriptions, but offers different affordances, 
-especially for the editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their strengths and conveniences.
+Here are [further instructions for readers](https://saktumiva.org/wiki/users).
 
-The TEI XML transcriptions of manuscripts and editions are stored at a [Github project repository](https://github.com/wujastyk/sushrutaproject).
+[The Saktumiva 2.0](https://wujastyk.github.io/Saktumiva2/) is derived from the same underlying manuscript transcriptions, but offers different affordances, 
+especially for the editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their particular strengths and conveniences.
+
+The TEI XML transcriptions of manuscripts and editions, and the draft translation, are stored at a [Github project repository](https://github.com/wujastyk/sushrutaproject).
 
 The editions and manuscript transcriptions can be viewed at the links below.  Links are to the IAST script display, but  you can change to Devanagari or several other scripts using the on-screen menu button अ.
 
-The tables give links to adhyāyas that have received editorial attention (not always final).
+The adhyāyas linked below have received varying degrees of editorial attention.
 
 ## Instructions
 
@@ -22,7 +24,7 @@ The tables give links to adhyāyas that have received editorial attention (not a
 * **N** = MS Kathmandu National Archives 1-1079
 * **H** = MS Kathmandu National Archives 5-333
 
-**Chapters marked with a puṣpikā ❈ have received critical editorial attention and may be considered  completed critical editions.**  
+**Chapters marked with a puṣpikā ❈ have received critical editorial attention and may be considered completed critical editions.**  
 
 The “[Instructions for Readers](https://saktumiva.org/wiki/users)” documentation explains how to read the above editions, how to select particular manuscripts for examination, and how to generate the critical apparatus.  The most common option is to press “other witnesses” in the left menu bar, then “select all”, then “generate apparatus.”  Click the अ character in the right-hand menu to select your preferred display script.
 
