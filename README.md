@@ -1,5 +1,3 @@
-# A Critical Edition of the Suśrutasaṃhitā Based on the Earliest Nepalese Manuscripts, using Saktumiva 1.0  
-
 This is the website for the online edition and manuscript transcriptions created as part of the [Sushruta Project](http://sushrutaproject1.github.io) as presented through Saktumiva 1.0.
 Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  
 
