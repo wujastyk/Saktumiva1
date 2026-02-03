@@ -5,8 +5,6 @@ You can also read the various manuscript transcriptions individually, or collate
 
 Here are [further instructions for readers](https://saktumiva.org/wiki/users).
 
-[The Saktumiva 2.0](https://wujastyk.github.io/Saktumiva2/) is derived from the same underlying manuscript transcriptions, but offers different affordances, 
-especially for the editors.  Both the Saktumiva 1.0 and 2.0 versions of the edition have their particular strengths and conveniences.
 
 The TEI XML transcriptions of manuscripts and editions, and the draft translation, are stored at a [Github project repository](https://github.com/wujastyk/sushrutaproject).
 
