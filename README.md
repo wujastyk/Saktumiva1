@@ -96,9 +96,9 @@ Based on witnesses K and H.
 
 - ### Kumāratantra: [27-37](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-27-37-kumara/provisional-edition_uttaratantra-27-37)
 
-- ### Kāyacikitsātantra: [38-59](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-38-59-kayacikitsa/provisional-edition_uttaratantra-38-59)
+- ### Kāyacikitsātantra: [39-24-57](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-39-24-57-kayacikitsa/provisional-edition_uttaratantra-39-24-57)
 
-- ### Bhūtavidyātantra: [60-62](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-60-62-bhuta/provisional-edition_uttaratantra-60-62)
+- ### Daśaka: [58-38-66](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-58-38-66-bhuta/provisional-edition_uttaratantra-58-38-66)
 
-- ### Tantrabhūṣaṇādhyāya [63-66](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-63-66-tantrabhusana/provisional-edition_uttaratantra-63-66)
+The Daśaka section above is the name given to the last ten adhyāyas of the Uttaratantra in verse SS.6.66.17ii, a verse that appears only in the Nepalese manuscripts.  The Daśaka includes what the vulgate transmission calls the end of the Kāyacikitsā, the Bhūtavidyā and the Tantrabhūṣaṇādhyāya. 
 
