@@ -92,6 +92,8 @@ Based on witnesses K and H.
 
 ## 6 Uttaratantra  
 
+Based on witnesses K and H.  
+
 - ### Śālākyatantra: [adhyāyas 1-26](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-01-26-salakya/provisional-edition_uttaratantra-01-26)
 
 - ### Kumāratantra: [27-37](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-27-37-kumara/provisional-edition_uttaratantra-27-37)
