@@ -1,4 +1,4 @@
-This is the website for the online edition and manuscript transcriptions created as part of the [Sushruta Project](http://sushrutaproject1.github.io) as presented through Saktumiva 1.0.
+This is the website for the online edition and manuscript transcriptions created as part of the [Sushruta Project](http://sushrutaproject1.github.io) **as presented through Saktumiva 1.0**.
 Here, you may view the evolving critical editions of several parts of the *Suśrutasaṃhitā*.  
 
 You can also read the various manuscript transcriptions individually, or collate and compare them in the manner of a critical edition using the Saktumiva 1.0 interface.  
